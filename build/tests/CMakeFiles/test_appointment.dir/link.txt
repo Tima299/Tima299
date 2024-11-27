@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/test_appointment.dir/test_appointment.c.o -o test_appointment  ../libdoctor_management_backend_lib.a

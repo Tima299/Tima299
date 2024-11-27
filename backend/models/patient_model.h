@@ -1,8 +1,10 @@
 #ifndef PATIENT_MODEL_H
 #define PATIENT_MODEL_H
 
-#include <string>
-#include <iostream>
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+
 
 // Patient model class to represent patient details
 class PatientModel {

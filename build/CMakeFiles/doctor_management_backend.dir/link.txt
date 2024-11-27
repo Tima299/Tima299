@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/doctor_management_backend.dir/src/main.c.o -o doctor_management_backend  libdoctor_management_backend_lib.a -lpthread

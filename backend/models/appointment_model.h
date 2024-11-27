@@ -1,9 +1,10 @@
 #ifndef APPOINTMENT_MODEL_H
 #define APPOINTMENT_MODEL_H
 
-#include <string>
-#include <iostream>
-#include <ctime>
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <time.h>
 
 // Appointment model class to represent appointment details
 class AppointmentModel {

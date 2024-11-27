@@ -1,8 +1,10 @@
 #ifndef SPECIALIZATION_MODEL_H
 #define SPECIALIZATION_MODEL_H
 
-#include <string>
-#include <iostream>
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+
 
 // Specialization model class to represent specialization data
 class SpecializationModel {

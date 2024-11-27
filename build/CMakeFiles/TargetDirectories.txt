@@ -1,0 +1,10 @@
+/home/temur/doctor_management_project/build/CMakeFiles/doctor_management_backend_lib.dir
+/home/temur/doctor_management_project/build/CMakeFiles/doctor_management_backend.dir
+/home/temur/doctor_management_project/build/CMakeFiles/test.dir
+/home/temur/doctor_management_project/build/CMakeFiles/edit_cache.dir
+/home/temur/doctor_management_project/build/CMakeFiles/rebuild_cache.dir
+/home/temur/doctor_management_project/build/tests/CMakeFiles/test_appointment.dir
+/home/temur/doctor_management_project/build/tests/CMakeFiles/test_doctor.dir
+/home/temur/doctor_management_project/build/tests/CMakeFiles/test.dir
+/home/temur/doctor_management_project/build/tests/CMakeFiles/edit_cache.dir
+/home/temur/doctor_management_project/build/tests/CMakeFiles/rebuild_cache.dir

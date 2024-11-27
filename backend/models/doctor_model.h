@@ -1,8 +1,10 @@
 #ifndef DOCTOR_MODEL_H
 #define DOCTOR_MODEL_H
 
-#include <string>
-#include <iostream>
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
+
 
 // Doctor model class to represent doctor details
 class DoctorModel {
