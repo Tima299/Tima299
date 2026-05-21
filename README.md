@@ -293,7 +293,7 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 
 <img
     height="180em"
-    src="https://streak-stats.demolab.com?user=Tima299&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Tima299&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
 />
 
