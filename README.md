@@ -279,8 +279,6 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 
 <img src="https://streak-stats.demolab.com?user=Tima299&theme=tokyonight&hide_border=true" width="49%" />
 
-<br/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tima299&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=Tima299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" width="58%" />
