@@ -292,9 +292,9 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 ### 🎧 &nbsp;Daily Setup
 
 ```yaml
-machine:       MacBook · IntelliJ IDEA
+machine:       HP · IntelliJ IDEA
 fuel:          Cold brew, no sugar
-soundtrack:    Lo-fi + rain ambience
+soundtrack:    (https://youtu.be/Ue_w2gvuVyY?list=RDUe_w2gvuVyY)
 peak_hours:    22:00 → 02:00
 current_read:  Designing Data-Intensive Apps
 side_quest:    Open-source contributions
