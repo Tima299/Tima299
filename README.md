@@ -280,7 +280,6 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
     alt="GitHub Profile Summary"
 />
 
-<br><br>
 
 <!-- STATS + STREAK -->
 <p align="center">
