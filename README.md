@@ -273,10 +273,10 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 
 <div align="center">
 
-<!-- MAIN PROFILE OVERVIEW -->
-<img 
-    width="100%" 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tima299&theme=tokyonight" 
+<!-- PROFILE SUMMARY -->
+<img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tima299&theme=tokyonight"
     alt="GitHub Profile Summary"
 />
 
@@ -284,34 +284,38 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 
 <!-- STATS + STREAK -->
 <p align="center">
-  <img 
-      width="49%" 
-      src="https://github-readme-stats.vercel.app/api?username=Tima299&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Statistics" 
-      alt="GitHub Stats"
-  />
 
-  <img 
-      width="49%" 
-      src="https://streak-stats.demolab.com?user=Tima299&theme=tokyonight&hide_border=true" 
-      alt="GitHub Streak"
-  />
+<img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tima299&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"
+    alt="GitHub Stats"
+/>
+
+<img
+    height="180em"
+    src="https://streak-stats.demolab.com?user=Tima299&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    alt="GitHub Streak"
+/>
+
 </p>
 
 <br>
 
 <!-- LANGUAGES + TROPHIES -->
 <p align="center">
-  <img 
-      width="38%" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tima299&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" 
-      alt="Top Languages"
-  />
 
-  <img 
-      width="60%" 
-      src="https://github-profile-trophy.vercel.app/?username=Tima299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&row=2" 
-      alt="GitHub Trophies"
-  />
+<img
+    height="180em"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tima299&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
+    alt="Top Languages"
+/>
+
+<img
+    height="180em"
+    src="https://github-profile-trophy.vercel.app/?username=Tima299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"
+    alt="GitHub Trophies"
+/>
+
 </p>
 
 </div>
