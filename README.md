@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Temur%20Eshboyev&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Techna.uz%20%F0%9F%87%BA%F0%9F%87%BF&descSize=20&descAlignY=60&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=240&section=header&text=Temur%20Eshboyev&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%C2%B7%20Techna%20%F0%9F%87%BA%F0%9F%87%BF&descSize=20&descAlignY=60&descAlign=50" width="100%" />
 
 <br/>
 
@@ -54,7 +54,6 @@ package com.temur;
 
 public final class Temur extends SoftwareEngineer {
 
-    /* ── identity ─────────────────────────────────────────── */
     private final String  name        = "Temur Eshboyev";
     private final String  location    = "Tashkent, Uzbekistan 🇺🇿";
     private final String  role        = "Java Back-End Developer";
@@ -62,7 +61,6 @@ public final class Temur extends SoftwareEngineer {
     private final String  graduating  = "May 2026";
     private final double  gpa         = 3.5 / 4.5;
 
-    /* ── what I'm doing right now ─────────────────────────── */
     @Override
     public List<String> currentlyDoing() {
         return List.of(
@@ -72,7 +70,6 @@ public final class Temur extends SoftwareEngineer {
         );
     }
 
-    /* ── multilingual stack ───────────────────────────────── */
     @Override
     public Map<String, String> languages() {
         return Map.of(
@@ -261,7 +258,7 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 
 **B.Sc. in Computer & Information Engineering** &nbsp;·&nbsp; **Inha University in Tashkent**
 <br/>
-<sub>📅 2022 – Aug 2026 (expected) &nbsp;·&nbsp; 📊 GPA: 3.5 / 4.5 &nbsp;·&nbsp; 📚 Core: OOP, Algorithms, Data Structures, DB Systems</sub>
+<sub>📅 Sep 2022 – May 2026 (expected) &nbsp;·&nbsp; 📊 GPA: 3.5 / 4.5 &nbsp;·&nbsp; 📚 Core: OOP, Algorithms, Data Structures, DB Systems</sub>
 
 </td>
 </tr>
