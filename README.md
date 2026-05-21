@@ -269,15 +269,22 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 <!-- ════════════════════════ GITHUB STATS ════════════════════════ -->
 
 
-## &nbsp;📊&nbsp; GitHub Pulse
+# 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tima299&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=10" width="98%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tima299&theme=tokyonight" width="98%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tima299&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="98%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Tima299&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" width="49%" />
+
+<img src="https://streak-stats.demolab.com?user=Tima299&theme=tokyonight&hide_border=true" width="49%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tima299&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=Tima299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" width="58%" />
 
 </div>
+
 
 <br/>
 
