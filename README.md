@@ -287,14 +287,12 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 
 <img
     width="100%"
-    height="180em"
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tima299&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=1800"
     alt="GitHub Stats"
 />
 
 <img
     width="100%"
-    height="180em"
     src="https://streak-stats.demolab.com?user=Tima299&theme=tokyonight&hide_border=true"
     alt="GitHub Streak"
 />
@@ -306,14 +304,12 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 
 <img
     width="100%"
-    height="180em"
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tima299&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
     alt="Top Languages"
 />
 
 <img
     width="100%"
-    height="180em"
     src="https://github-profile-trophy.vercel.app/?username=Tima299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"
     alt="GitHub Trophies"
 />
