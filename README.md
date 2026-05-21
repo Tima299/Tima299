@@ -59,7 +59,7 @@ public final class Temur extends SoftwareEngineer {
     private final String  location    = "Tashkent, Uzbekistan 🇺🇿";
     private final String  role        = "Java Back-End Developer";
     private final String  university  = "Inha University in Tashkent";
-    private final String  graduating  = "Aug 2026";
+    private final String  graduating  = "May 2026";
     private final double  gpa         = 3.5 / 4.5;
 
     /* ── what I'm doing right now ─────────────────────────── */
@@ -275,56 +275,18 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TemurEshboyev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TemurEshboyev&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Tima299&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Tima299&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TemurEshboyev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
-<img src="https://github-profile-trophy.vercel.app/?username=TemurEshboyev&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=10" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tima299&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Tima299&theme=tokyonight&no-frame=true&no-bg=true&column=4&row=2&margin-w=10" width="49%" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TemurEshboyev&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="99%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tima299&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" width="99%"/>
 
 </div>
 
 <br/>
 
-<!-- ════════════════════════ CERTIFICATIONS ════════════════════════ -->
-
-## &nbsp;📜&nbsp; Certifications
-
-<table>
-<tr>
-<td>🏆</td>
-<td><b>IELTS Academic — Band 7.0 (C1)</b></td>
-<td>British Council</td>
-<td><sub>Mar 2026 – Mar 2028</sub></td>
-</tr>
-<tr>
-<td>✉️</td>
-<td><b>Recommendation Letter</b></td>
-<td>Uzum Technologies</td>
-<td><sub>2025</sub></td>
-</tr>
-<tr>
-<td>🇺🇳</td>
-<td><b>Certificate of Service</b></td>
-<td>UN Volunteers</td>
-<td><sub>2026</sub></td>
-</tr>
-<tr>
-<td>📄</td>
-<td><b>Letter of Recognition</b></td>
-<td>UN Volunteers</td>
-<td><sub>2026</sub></td>
-</tr>
-<tr>
-<td>🥇</td>
-<td><b>Certificate of Appreciation</b></td>
-<td>HUMANS.uz</td>
-<td><sub>2024</sub></td>
-</tr>
-</table>
-
-<br/>
 
 <!-- ════════════════════════ FUN STATS ════════════════════════ -->
 
