@@ -299,8 +299,6 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 
 </p>
 
-<br>
-
 <!-- LANGUAGES + TROPHIES -->
 <p align="center">
 
