@@ -273,18 +273,48 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tima299&theme=tokyonight" width="98%" />
+<!-- MAIN PROFILE OVERVIEW -->
+<img 
+    width="100%" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tima299&theme=tokyonight" 
+    alt="GitHub Profile Summary"
+/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Tima299&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Stats" width="49%" />
+<br><br>
 
-<img src="https://streak-stats.demolab.com?user=Tima299&theme=tokyonight&hide_border=true" width="49%" />
+<!-- STATS + STREAK -->
+<p align="center">
+  <img 
+      width="49%" 
+      src="https://github-readme-stats.vercel.app/api?username=Tima299&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&custom_title=GitHub%20Statistics" 
+      alt="GitHub Stats"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tima299&theme=tokyonight&hide_border=true&layout=compact" width="40%" />
+  <img 
+      width="49%" 
+      src="https://streak-stats.demolab.com?user=Tima299&theme=tokyonight&hide_border=true" 
+      alt="GitHub Streak"
+  />
+</p>
 
-<img src="https://github-profile-trophy.vercel.app/?username=Tima299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=4" width="58%" />
+<br>
+
+<!-- LANGUAGES + TROPHIES -->
+<p align="center">
+  <img 
+      width="38%" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tima299&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" 
+      alt="Top Languages"
+  />
+
+  <img 
+      width="60%" 
+      src="https://github-profile-trophy.vercel.app/?username=Tima299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=4&row=2" 
+      alt="GitHub Trophies"
+  />
+</p>
 
 </div>
-
 
 <br/>
 
