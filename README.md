@@ -281,22 +281,54 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
 
 <br/>
 
-## &nbsp;🎮&nbsp; Fun Stats
+<!-- ════════════════════════ BEYOND THE CODE ════════════════════════ -->
 
+## &nbsp;⚡&nbsp; Beyond the Code
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎧 &nbsp;Daily Setup
+
+```yaml
+machine:       MacBook · IntelliJ IDEA
+fuel:          Cold brew, no sugar
+soundtrack:    Lo-fi + rain ambience
+peak_hours:    22:00 → 02:00
+current_read:  Designing Data-Intensive Apps
+side_quest:    Open-source contributions
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                       temur.exe · loaded                         ║
-╠══════════════════════════════════════════════════════════════════╣
-║   ☕  Coffees per day          ████████░░░░  3                    ║
-║   🐛  Bugs introduced          █████░░░░░░░  manageable           ║
-║   🔧  Bugs squashed            █████████░░░  more than above      ║
-║   📚  Docs actually read       ███████░░░░░  growing              ║
-║   🌙  Late-night commits       ████░░░░░░░░  occasionally         ║
-║   🚀  Production deploys       █████████░░░  with confidence      ║
-║   💤  Sleep                    ██████░░░░░░  negotiable           ║
-║   🧠  Curiosity                ████████████  maxed out            ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 &nbsp;Hot Takes
+
+> ▸ &nbsp;A good README is half the project
+> 
+> ▸ &nbsp;`git rebase` is therapeutic
+> 
+> ▸ &nbsp;Comments lie. Code doesn't.
+> 
+> ▸ &nbsp;Naming things > solving algorithms
+> 
+> ▸ &nbsp;Boring code is freedom
+
+</td>
+</tr>
+</table>
+
+### 🎯 &nbsp;What I Optimize For
+
+<p>
+  <img src="https://img.shields.io/badge/Readability-95%25-2ea44f?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Maintainability-90%25-2ea44f?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Performance-80%25-007ec6?style=for-the-badge&labelColor=1a1a1a" />
+  <img src="https://img.shields.io/badge/Cleverness-15%25-e05d44?style=for-the-badge&labelColor=1a1a1a" />
+</p>
+
+<sub>💭 &nbsp;<i>Clever code is debt. Boring code is freedom.</i></sub>
 
 <br/>
 
