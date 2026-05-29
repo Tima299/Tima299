@@ -307,12 +307,8 @@ Pre-tech chapter — led sales operations and a team that **consistently exceede
     alt="Top Languages"
 />
 
-<img
-    width="100%"
-    src="https://github-profile-trophy.vercel.app/?username=Tima299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"
-    alt="GitHub Trophies"
-/>
-
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tima299&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4" />
 </p>
 
 </div>
