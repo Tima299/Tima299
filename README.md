@@ -39,7 +39,7 @@
 
 > ### 🟢 &nbsp; Currently Building &nbsp;·&nbsp; **Software Engineer @ Techna.uz**
 >
-> Working on the **Safia** side of a large-scale **digital transformation initiative** — designing scalable backend services and internal tools across **finance, supply chain, and operational workflows**. Designing APIs, automating data pipelines, and stitching together systems that used to talk through spreadsheets.
+> Working at **Techna.uz** — a large-scale **digital transformation initiative** — designing scalable backend services and internal tools across **finance, supply chain, and operational workflows**. Designing APIs, automating data pipelines, and stitching together systems that used to talk through spreadsheets.
 >
 > &nbsp;&nbsp;`Apr 2026 — Present` &nbsp;·&nbsp; `Tashkent · Hybrid` &nbsp;·&nbsp; `Part-time`
 
